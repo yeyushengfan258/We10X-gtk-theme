@@ -38,14 +38,14 @@ stage {
 }
 
 .popup-menu-content {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.95);
   color: rgba(0, 0, 0, 0.87);
   border-radius: 3px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
 }
 
 .modal-dialog {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.95);
   color: rgba(0, 0, 0, 0.87);
   border-radius: 6px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
