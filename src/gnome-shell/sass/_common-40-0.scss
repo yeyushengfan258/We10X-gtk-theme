@@ -34,14 +34,14 @@ stage {
 }
 
 %popups {
-  background: $popover_bg_color;
+  background: $menu_bg_color;
   color: $fg_color;
   border-radius: $menu_radius;
   box-shadow: 0 3px 8px rgba(black, 0.1);
 }
 
 %dialogs {
-  background: $popover_bg_color;
+  background: $menu_bg_color;
   color: $fg_color;
   border-radius: $dialog_radius;
   box-shadow: 0 3px 8px rgba(black, 0.2);
